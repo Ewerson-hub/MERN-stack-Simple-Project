@@ -2,4 +2,13 @@
 
 ![alt text](image.png)
 
->Objective: Create an organized application that connects to MongoDB and performs 4 basic CRUD operations with a frontend that updates in real time, with a backend made in node + express and frontend made with React + Chacka.UI + Zustand
+>Objective: Create an organized application that connects to MongoDB and performs 4 basic CRUD operations with a frontend that updates in real time.
+
+with a backend made in node + express and frontend made with React + Chacka.UI + Zustand
+
+| Technologies used  |     |  
+| -------------      | ------------- |  
+| Back-end           | Node.js, Express       | 
+| Front-end          | React, Chacka.ui, Zustand | 
+| Database           | MongoDB         | 
+| Plataform          | [X] Web  [] Android [ ] Desktop      |
