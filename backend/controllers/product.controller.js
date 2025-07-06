@@ -46,6 +46,7 @@ export const updateProduct = async (req, res) => {
 }
 export const deleteProduct = async (req, res)=> {
     const {id} = req.params
+    
     if(!id){
         res.status(404).json({sucess: false, message: "Please provide a Product Id"})
     }
