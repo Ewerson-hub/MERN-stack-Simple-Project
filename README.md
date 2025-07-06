@@ -1,0 +1,5 @@
+# Project from Free Code Camp
+
+![alt text](image.png)
+
+>Objective: Create an organized application that connects to MongoDB and performs 4 basic CRUD operations with a frontend that updates in real time, with a backend made in node + express and frontend made with React + Chacka.UI + Zustand
